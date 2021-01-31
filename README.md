@@ -28,7 +28,7 @@ Nearly all features of the original data were valuable in creating a precise mod
 
 The prediction model's accuracy vastly improved after zip code classifications were introduced.  The graph below shows the zip codes ordered by average home price, and divided into seven categories which were used to train the model.
 
-![2 linear regression plots.  The first shows the correlation between living space square footage and price.  The second shows the correlation between the average square footage of a home's 15 nearest neighbors and its price.](images/regplots.png)
+![Bar graph of 70 zip codes ordered by mean price.  Zips are divided into seven price-based categories.](images/Zip-classifications)
 
 ## Conclusions
 
