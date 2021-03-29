@@ -1,4 +1,4 @@
-# King-County-Homes-Project
+# Pricing Homes with Precision
 
 **Author:** Lili Beit
 ***
